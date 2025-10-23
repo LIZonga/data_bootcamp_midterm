@@ -16,3 +16,11 @@ A global health research firm has hired your group as consultants to explore the
 
 ### Purpose
 We chose to investigate the intersection of coffee quality, consumption, and health because it connects everyday behavior with global health outcomes in a way that is both data-rich and socially meaningful. Coffee is one of the most widely consumed beverages in the world, yet its effects on health—both positive and negative—remain debated. By combining datasets on national coffee consumption, disease prevalence, and self-reported well-being, we can explore how lifestyle habits reflect and possibly influence population health. This topic allows us to integrate diverse types of data (economic, nutritional, and epidemiological) and apply analytical methods that link consumer behavior with public health indicators. It also provides an opportunity to critically assess how perceptions of caffeine and “healthy energy” evolve across cultures, blending quantitative analysis with human-centered insight.
+
+### Contents
+1. Dataset 1: Coffee Dataset
+2. Dataset 2: Coffee Quality Data (CQI May-2023)
+3. Dataset 3: Comprehensive Analysis of Coffee Health Correlation
+4. Dataset 4: World Health Organization Data for Health Indicators
+5. Analysis Questions
+6. Conclusion
